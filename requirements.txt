@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+wandb
+peft
+trl
+loguru
+huggingface-hub
