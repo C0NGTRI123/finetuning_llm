@@ -6,3 +6,6 @@ peft
 trl
 loguru
 huggingface-hub
+vllm
+openai
+camel-ai
